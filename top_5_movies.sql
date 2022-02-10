@@ -10,5 +10,5 @@ FROM
 GROUP BY
 	F.title
 ORDER BY
-	total_revenue
+	total_revenue DESC
 LIMIT 10;
