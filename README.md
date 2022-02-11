@@ -1,4 +1,4 @@
-# cf_rockbuster_sql
+# cf-rockbuster-sql
 
 Displays the SQL queries that I worked on during my Career Foundry Data Analyst Course using the sample project "rockbuster".
 
@@ -28,7 +28,7 @@ The dataset comprises of information on the following parameters:
 The full details of the data are available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 ## ER model
-![ER model](https://github.com/Voorman/cf_rockbuster_sql/blob/2c92847f93d3fb855d56621a58055705f854bc32/dvd-rental-sample-database-diagram.png)
+![ER model](https://github.com/Voorman/cf-rockbuster-sql/blob/2c92847f93d3fb855d56621a58055705f854bc32/dvd-rental-sample-database-diagram.png)
 
 
 ## Tools
