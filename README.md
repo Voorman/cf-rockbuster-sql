@@ -36,3 +36,7 @@ The full details of the data are available [here](https://www.postgresqltutorial
 - pgAdmin4 - to analyze the data
 - TablePlus - to analyze the data
 - Tableau - for visualizations
+
+
+## Visualization
+Tableau visualization: [Link](https://public.tableau.com/app/profile/i3370/viz/ROCKBUSTERSTEALTHLLCSalesAnalysis-Presentation/DashboardSalesAnalysis?publish=yes)
