@@ -1,6 +1,6 @@
 # cf_rockbuster_sql
 
-This is a demonstration of best practices applied for creating github repository - using the sample project "rockbuster".
+Displays the SQL queries that I worked on during my Career Foundry Data Analyst Course using the sample project "rockbuster".
 
 ## Objective
 <!--  ![instacart logo](https://github.com/humeranoor/cf-instacart/blob/main/instacart-logo.jpg) -->
@@ -27,8 +27,8 @@ The dataset comprises of information on the following parameters:
 
 The full details of the data are available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
-##
-[ER model](https://github.com/Voorman/cf_rockbuster_sql/blob/2c92847f93d3fb855d56621a58055705f854bc32/dvd-rental-sample-database-diagram.png)
+## ER model
+![ER model](https://github.com/Voorman/cf_rockbuster_sql/blob/2c92847f93d3fb855d56621a58055705f854bc32/dvd-rental-sample-database-diagram.png)
 
 
 ## Tools
@@ -36,6 +36,3 @@ The full details of the data are available [here](https://www.postgresqltutorial
 - pgAdmin4 - to analyze the data
 - TablePlus - to analyze the data
 - Tableau - for visualizations
-
-## Resources
-Relevant resources will be posted here.
