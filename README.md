@@ -27,6 +27,9 @@ The dataset comprises of information on the following parameters:
 
 The full details of the data are available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
+##
+[ER model](https://github.com/Voorman/cf_rockbuster_sql/blob/main/dvd-rental-sample-database-diagram.jpg)
+
 ## Tools
 - PostgreSQL - to store the data
 - pgAdmin4 - to analyze the data
