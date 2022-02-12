@@ -37,6 +37,11 @@ The full details of the data are available [here](https://www.postgresqltutorial
 - TablePlus - to analyze the data
 - Tableau - for visualizations
 
+## Data Dictionary
+
+[Rockbuster Data dictionary](https://github.com/Voorman/cf-rockbuster-sql/blob/9998d26563ffa89694c0714a1bfb3bdc024a4042/data-dictionary/Rockbuster_Data_Dictionary.pdf)
+
+
 
 ## Visualization
 Tableau visualization: [Link](https://public.tableau.com/app/profile/i3370/viz/ROCKBUSTERSTEALTHLLCSalesAnalysis-Presentation/DashboardSalesAnalysis?publish=yes)
