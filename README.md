@@ -1,6 +1,6 @@
 # cf-rockbuster-sql
 
-Displays the SQL queries that I worked on during my Career Foundry Data Analyst Course using the sample project "rockbuster".
+Displays the SQL queries, data dictionary and visualizations that I worked on during my Career Foundry Data Analyst Course using the sample project "rockbuster".
 
 ## Objective
 <!--  ![instacart logo](https://github.com/humeranoor/cf-instacart/blob/main/instacart-logo.jpg) -->
